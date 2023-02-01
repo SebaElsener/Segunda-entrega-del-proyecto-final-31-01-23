@@ -9,4 +9,4 @@ Se reemplazó el sistema de persistencia local que hacía uso de *'fs'* para ada
 ## Comentarios
 Para probar la app se agregaron tanto a *Firebase* como a *mongoDB* tres productos y un carrito con *id=63d99bf8866138633a761063* para poder hacer las operaciones de agregar/eliminar productos.
 
-### Link al repositorio en GitHub:  
+### Link al repositorio en GitHub:  https://github.com/SebaElsener/Segunda-entrega-del-proyecto-final-31-01-23
